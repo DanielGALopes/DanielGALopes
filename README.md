@@ -3,9 +3,10 @@
 - 🎓 estudo analise e desenvolvimento de sistemas (ADS)
 - 📫 estou disponível para prestação de serviços, projetos ou freelancers. 
 
-CONTATOS 👇👇
 
-✉️ assessoriaprodaniellopes@gmail.com
-
-📞 meu LinkedIn:
-www.linkedin.com/in/daniel-lopes-9bb743248
+<div> 
+  
+  <a href = "assessoriaprodaniellopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-lopes-9bb743248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
